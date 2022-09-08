@@ -28,9 +28,8 @@ Links are just examples of where they can be purchased. Suggested to buy hardcop
     * https://welltrainedmind.com/p/the-story-of-the-world-volume-1-ancient-times-from-the-earliest-nomads-to-the-last-roman-emperor/
   * *The Story of the World Vol. 1: Ancient Times, Revised Edition Activity Book*
     * https://welltrainedmind.com/p/the-story-of-the-world-activity-book-1-ancient-times-from-the-earliest-nomad-to-the-last-roman-emperor/
-* Du'aas for prayer- 
+* Du'aas for prayer- https://github.com/meelash/homeschool_materials/blob/master/Prayer%20duaa%20tracing.pdf
   * Start halfway through the year after having some initial practice with Arabic writing
   * Print multiple front/back double sided copies of each page of prayer du'aa
   * Memorize Du'aa and translation, and continue with one page of tracing each day until memorized
   * Teach each position in prayer in detail while learning the du'aa for that position
-  
