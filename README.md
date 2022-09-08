@@ -1,2 +1,2 @@
-# homeschool_materials
+# Homeschool Materials
 Syllabus and collection of materials for homeschooling
